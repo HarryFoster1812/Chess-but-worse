@@ -1,4 +1,4 @@
-# Chess-but-worse
+# Chess (but worse)
 
 A working chess game in c#, there are some bugs but i am too lazy to fix them.
 
